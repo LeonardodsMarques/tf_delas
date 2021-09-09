@@ -1,0 +1,35 @@
+.box7{
+    width: 1440px;
+    height: 800px;
+    background-color:#9c66f1;
+ 
+
+}
+
+.galeria {
+    position: absolute;
+    width: 560px;
+    margin: 20px 400px;
+    
+
+}
+
+h3 {
+
+    font-size: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.depoimento {
+
+    font-size: 25px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 5px 0 70px 0;
+
+}
