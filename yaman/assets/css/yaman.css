@@ -44,12 +44,12 @@ section {
 #projeto-yaman{
     position: relative;
     display: inline-block;
-    
-    margin-top: 30%;
+    margin-top: 26%;
 
 }
 
 #site-yaman {
+    text-decoration: none;
     bottom: 300px;
     left: 100px;
     position: relative;
@@ -80,15 +80,20 @@ section {
 
 #site-yaman .text{
     line-height: 45px;
+    
 }
 #site-yaman p {
     text-align: center;
     font-size: 27px;
+    text-decoration: none;
 }
 
-#site-yaman .amarelo{
+#site-yaman a{
+    text-decoration: none;
+    color: #FAC504;
     text-transform: uppercase;
     text-decoration: underline;
+
 
 }
 
@@ -140,17 +145,57 @@ section {
 }
 
 .mais-info{
-        width: 100%;
-        position: absolute;
-        bottom: 0;
-        left: 0;
-    }
-
+    position: relative;
+    bottom: 1067px;}
+        
 #background-img img{
-    width: 2000px;
-    height: 500px;
+    position: absolute;
+    width: 1366px;
+    height: 307px;
+    top: 760px;
+    object-fit: cover;
+    opacity: 0.2;
 
-    bottom: 0;
-    left: 0;
-    /*object-fit: cover;*/
+}
+
+.texto-info{
+    position: absolute;
+    top: 800px;;
+    text-align: center;
+    margin-right: 22%;
+    margin-left: 22%;
+
+    color: rgba(255, 255, 255, 0.86);
+    font-weight: 400;
+    font-size: 16.44px;
+    line-height: 22px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto-info h2{
+    word-spacing: -3px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.button{
+    border-radius: 127px;
+    background-color: #FAC504;
+    text-transform: uppercase;
+    padding: 10px 60px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 970px;
+    margin-left: 42%;
+    align-content: center;
+    display: flex;
+}
+
+.button:hover{
+    background-color: #ad8904;
 }
