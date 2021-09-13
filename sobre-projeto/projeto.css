@@ -1,0 +1,49 @@
+
+div {
+    height: 100px;
+    width: 50%;
+    display:inline-block;
+}
+
+.text{
+    text-align: justify;
+    position: absolute;
+    top: 80px;
+    left: 60px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 84px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 170px;
+    left: auto;
+    text-align:center;
+    height: 375px;
+    width: 506px;
+    font-size: 24px;
+    line-height: 28px;
+
+}
+
+
+
+#programa {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    left: 650px;
+    width: 50%;
+    height: auto;
+    box-shadow: -40px 40px #4C2B7E;
+}
