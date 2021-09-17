@@ -1,0 +1,115 @@
+.box3{
+    position: relative;
+      width: 1440px;
+      height: 800px;
+      background-color:#764ABB;
+  
+  }
+
+.cenario{
+    position: absolute;
+    font-size: 40px;
+    top: 20px;
+    left: 550px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+
+}
+
+.pb3{
+    position: absolute;
+    width: 800px;
+    left: 320px;
+    top: 90px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.lib3 {
+    position: relative;
+    display: inline-block;
+    margin: 0 60px;
+    width: 20%;
+    top: 200px;
+    text-align: center;
+    padding: 25px 15px;
+   background: white;
+   box-shadow: 30px 20px rgba(235, 221, 221, 0.329);   
+  
+
+
+}
+
+.lib3-3 {
+    position: absolute;
+    width: 270px;
+    top: 200px;
+    right: 180px;
+    text-align: center;
+    padding: 25px 15px 60px 15px;
+   background: white;
+   box-shadow: 30px 20px rgba(235, 221, 221, 0.329);   
+  
+
+}
+
+
+.lib3 h1 {
+
+    font-size: 22px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding-bottom: 15px;
+
+}
+
+.lib3 p {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lib3-3 h1 {
+
+    font-size: 22px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding-bottom: 15px;
+
+
+}
+
+.lib3-3 p {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.enviar-3 {
+
+    position: absolute;
+    bottom: 150px;
+    left: 600px;
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 30px;
+    background: rgba(255, 255, 255, 0.377);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.enviar-3:hover {
+
+    -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
+      
+
+}
