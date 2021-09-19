@@ -1,0 +1,80 @@
+.section-title{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.section-title h2{
+    color:#4C2B7E;
+    font-size: 50pt;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.section-title p{
+    color: #525050;
+    font-size: 18px;
+    margin-right: 27.5%;
+    margin-left: 27.5%;
+    width: 45%;
+}
+.infos{
+    display:flex;
+}
+h4{
+    color:#4C2B7E;
+    font-weight: bold;
+    font-size: 20pt;
+    margin-top: 50px;
+    width: 500px;
+}
+.infos p{
+    color: #948C8C;
+    font-size: 18px;
+}
+
+.coluna{
+  max-width: 100%;
+  margin-left: 100px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.lady-icon{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.lady-icon img{
+    width: 150px;
+    margin-top: 10px;
+    float: left;
+}
+
+.bolsas{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bolsas img{
+    width: 150px;
+    margin-top: 10px;
+    float: left;
+}
+
+.graduaçao{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.graduaçao img {
+   width: 150px;
+   margin-top:10px;
+   float: left;
+}
+#img-right{
+    width: 30%;
+    height: 30%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
