@@ -1,12 +1,13 @@
-.box3{
-    position: relative;
-      width: 1440px;
+.cenario{
+    position: absolute;
+      width: 1423px;
       height: 800px;
       background-color:#764ABB;
+      top: 1700px;
   
   }
 
-.cenario{
+.t-cenario{
     position: absolute;
     font-size: 40px;
     top: 20px;
