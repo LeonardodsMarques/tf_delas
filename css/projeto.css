@@ -40,10 +40,11 @@
 
 .img-projeto {
     position: absolute;
-    top: 70px;
+    top: 120px;
     right: 0;
     left: 680px;
     width: 600px;
-    height: auto;
-    box-shadow: -40px 40px #4C2B7E;
+    height: 400px;
+    
+    box-shadow: 30px -40px #4C2B7E;
 }

@@ -1,9 +1,18 @@
+.info{
+    position: absolute;
+    top: 2500px;
+
+
+}
+
+
+
 .section-title{
     text-align: center;
     padding-top: 30px;
 }
 
-.section-title h2{
+.tp-info{
     color:#4C2B7E;
     font-size: 50pt;
     font-weight: bold;
@@ -11,7 +20,7 @@
     padding-bottom: 10px;
 }
 
-.section-title p{
+.pt-info{
     color: #525050;
     font-size: 18px;
     margin-right: 27.5%;
@@ -21,16 +30,17 @@
 .infos{
     display:flex;
 }
-h4{
+.t-info{
     color:#4C2B7E;
     font-weight: bold;
     font-size: 20pt;
     margin-top: 50px;
     width: 500px;
 }
-.infos p{
+.p-info{
     color: #948C8C;
     font-size: 18px;
+    
 }
 
 .coluna{
