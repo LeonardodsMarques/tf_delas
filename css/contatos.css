@@ -1,7 +1,8 @@
-.box8{
-  position: relative;
-    width: 1440px;
+.contatos{
+  position: absolute;
+    width: 1420px;
     height: 800px;
+    top: 5300px;
     background-color:#4C2B7E;
 
 }
@@ -65,6 +66,14 @@ form {
 	border-radius: 15px;
 	cursor: pointer;
     margin: 0 0 0 60px;
+}
+
+.enviar:hover {
+
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+
 }
 
 .qr{
@@ -142,5 +151,10 @@ form {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
 }
+ 
+.l-contato {
 
+  color: white;
+
+}
 
