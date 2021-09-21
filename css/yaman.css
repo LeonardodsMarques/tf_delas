@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.trespassos{
+    position: absolute;
+    top: 3400px;
+    background-color: #764ABB;
+    width: 1420px;
+    height: 1050px;
+    color: white;
+    padding-top: 100px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.amarelo {
+    color: #FAC504;
+}
+
+#sobre-yaman {
+    position: relative;
+    width: 1420px;
+    text-align: center;
+    
+    
+}
+
+.tp-trespassos {
+    display: inline;
+    font-size: 55px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.texto-sobre-yaman {
+    position: relative;
+    font-size: 18px;
+    width: 1000px;
+    left: 200px;
+    padding-top: 20px;
+    
+}
+
+
+.t-link{
+
+    position: absolute;
+    top: 400px;
+    font-size: 20px;
+    left: 140px;
+}
+
+.p-link{
+
+    position: absolute;
+    top: 430px;
+    left: 80px;
+    font-size: 26px;
+    color: #FAC504;
+    text-transform: uppercase;
+
+}
+
+
+  .img-ceo {
+    
+        background-color: #ddd;
+        border-radius: 100%;
+        height: 300px;
+        object-fit: cover;
+        width: 300px;  
+        position: absolute;
+        top: 480px;
+        left: 80px;
+
+  }
+
+  .tp-sobre {
+
+    position: absolute;
+    top: 470px;
+    font-size: 50px ;
+    right: 350px;
+    font-weight: bold;
+
+  }
+
+  .texts {
+    
+    width: 300px;
+
+  }
+
+  .tp-atuacao {
+
+    position: absolute;
+    top: 550px;
+    right: 750px;
+    font-size: 28px;
+    color: #FAC504;
+    font-weight: bold;
+
+  }
+
+  .p-atuacao {
+
+    position: absolute;
+    top: 585px;
+    width: 300px;
+    right: 555px;
+    line-height: 20px;
+}
+
+.tp-prox {
+
+    position: absolute;
+    top: 550px;
+    right: 235px;
+    font-size: 28px;
+    color: #FAC504;
+    font-weight: bold;
+
+}
+
+.p-prox {
+
+    position: absolute;
+    top: 585px;
+    width: 300px;
+    right: 150px;
+    line-height: 20px;
+
+}
+
+.bg-yaman {
+
+    position: absolute;
+    top: 850px;
+    width: 1420px;
+    height: 300px;
+    object-fit: cover;
+    opacity: 15%;
+
+}
+
+.t-bg{
+
+    position: absolute;
+    top: 900px;
+    left: 500px;
+    font-size: 22px;
+    color: #FAC504;
+    font-weight: bold;
+
+}
+
+.p-bg{
+
+    position: absolute;
+    top: 950px;
+    left: 350px;
+    width: 700px;
+    text-align: center;
+
+
+}
+
+
+.b-bg{
+
+    position: absolute;
+    top: 1070px;
+    left: 600px;
+    font-size: 22px;
+    border-radius: 20px;
+    border: none;
+    padding: 6px 32px;
+    background-color: #FAC504;
+
+}
+
+.b-bg:hover {
+
+     -webkit-transform: scale(0.9);
+     -ms-transform: scale(0.9);
+      transform: scale(0.9);
+
+}

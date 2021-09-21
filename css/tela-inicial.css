@@ -17,7 +17,7 @@ body {
 }
 
 
-h2 {
+.tp-tela {
     position: absolute;
     font-size: 80px;
     left: 380px;
