@@ -1,18 +1,17 @@
 
-div {
-    height: 100px;
-    width: 50%;
-    display:inline-block;
+.projeto {
+
+    position:relative;
 }
 
 .text{
-    text-align: justify;
+    text-align: center;
     position: absolute;
     top: 80px;
     left: 60px;
 }
 
-h1{
+.t-projeto{
     font-family: 'Roboto', sans-serif;
     position: absolute;
     top: 80px;
@@ -21,9 +20,10 @@ h1{
     font-size: 72px;
     font-weight: bold;
     line-height: 84px;
+    width: 300px;
 }
 
-p {
+.p-projeto {
     font-family: 'Roboto', sans-serif;
     position: absolute;
     top: 170px;
@@ -38,12 +38,13 @@ p {
 
 
 
-#programa {
+.img-projeto {
     position: absolute;
-    top: 50px;
+    top: 120px;
     right: 0;
-    left: 650px;
-    width: 50%;
-    height: auto;
-    box-shadow: -40px 40px #4C2B7E;
+    left: 680px;
+    width: 600px;
+    height: 400px;
+    
+    box-shadow: 30px -40px #4C2B7E;
 }

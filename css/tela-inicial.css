@@ -1,6 +1,12 @@
-.box1 {
+body {
+
+    width: 100%;
+
+}
+
+.tela-inicial {
     position:relative;
-    width: 1440px;
+    width: 1423px;
     background:#764ABB;
 }
 
@@ -11,10 +17,10 @@
 }
 
 
-h2 {
+.tp-tela {
     position: absolute;
     font-size: 80px;
-    left: 400px;
+    left: 380px;
     top: 300px;
     color: white;
     font-family: 'Roboto', sans-serif;
@@ -23,11 +29,11 @@ h2 {
 
 }
 
-.box1 p {
+.pb1 {
     width: 800px;
     position: absolute;
     font-size: 20px;
-    left: 320px;
+    left: 300px;
     top: 380px;
     color: white;
     margin: 15px 0 0 0;
@@ -41,7 +47,7 @@ h2 {
 .b1 {
 
     position: absolute;
-    left: 500px;
+    left: 480px;
     bottom: 350px;
     font-size: 20px;
     border-radius: 20px;
@@ -56,13 +62,18 @@ h2 {
 
 .b1:hover {
    background: #ad8904 ;
+   -webkit-transform: scale(0.9);
+   -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    cursor: pointer;
+
 }
 
 
 .b2 {
 
     position: absolute;
-    left: 700px;
+    left: 680px;
     bottom: 350px;
     font-size: 20px;
     border-radius: 20px;
@@ -76,4 +87,9 @@ h2 {
 
 .b2:hover {
     background-color: #ad8904 ;
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+     transform: scale(0.9);
+     cursor: pointer;
+
 }

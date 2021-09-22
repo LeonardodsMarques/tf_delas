@@ -1,0 +1,164 @@
+.contatos{
+  position: absolute;
+    width: 1420px;
+    height: 800px;
+    top: 5300px;
+    background-color:#4C2B7E;
+
+}
+
+.tp-contato {
+    position: absolute;
+    font-size: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin: 150px 0 0 70px;
+    font-weight: bold;
+}
+
+
+form {
+
+    position: absolute;
+    margin: 240px 0 ;
+    
+
+}
+.input-padrao {
+
+    margin: 0 0 20px 70px;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: #dc9af0;    
+    display: block;
+    width:70%;
+
+  }
+
+  input::placeholder  {
+    color: rgb(255, 255, 255);
+  }
+
+   textarea::placeholder  {
+    color: rgb(255, 255, 255);
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
+  textarea:focus, input:focus, select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+} 
+
+.enviar {
+	width:85%;
+	padding: 15px 0;
+	background: white;
+	color: black;
+    font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 15px;
+	cursor: pointer;
+    margin: 0 0 0 60px;
+}
+
+.enviar:hover {
+
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+
+}
+
+.qr{
+
+  position: absolute;
+  right: 300px;
+  top: 230px;
+  box-shadow: 20px -20px  #dc9af0;
+
+}
+
+.qr-text {
+
+  position: absolute;
+  right: 380px;
+  top: 550px;
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+.insta{
+
+  position: absolute;
+  top: 620px;
+  left: 60px;
+}
+
+.rsocial-insta {
+
+  position:absolute;
+  top: 760px;
+  left: 80px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+.linkedin{
+
+  position: absolute;
+  top: 615px;
+  left: 500px;
+
+}
+
+.rsocial-link{
+
+  position:absolute;
+  top: 760px;
+  left: 525px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+.gmail{
+
+  position: absolute;
+  top: 615px;
+  right: 380px;
+
+}
+
+.rsocial-g{
+
+  position:absolute;
+  top: 760px;
+  right: 420px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+ 
+.l-contato {
+
+  color: white;
+
+}
+
+.a-contatos {
+
+  color: black;
+}
